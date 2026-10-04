@@ -1,0 +1,1 @@
+target_stm32f405xg(FEROFLYF405V1 HSE_MHZ 24)
